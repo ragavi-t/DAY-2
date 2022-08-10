@@ -1,0 +1,22 @@
+Document  
+ 
+  It represents any HTML report or net web page that is loaded in the browser.
+  It's  loaded within the window. 
+  It's  the item of window property.
+all the tags, factors with attributes in HTML are part of the report.
+  we will get entry to the document from a window using the window. file
+  The file is a part of BOM (browser item model) and dom (report object model) residences of document objects along 
+with name, frame, cookies, and so forth also can be accessed via a window like this window. document.title   
+      SYNTAX:document.name;       
+
+
+window object
+
+  It represents a browser window or frame that represent  the contents of the website.   
+  It's  the first actual object this is loaded in the browser. 
+  It's the object of the browser. global items, capabilities, and variables of JavaScript are individuals of the window item. 
+  we can get approach to the window from the window most effective. i.e. window.window 
+  The window is a part of BOM, now not DOM. properties of the window object cannot be accessed with document  object.
+        SYNTAX :window.name;
+
+
